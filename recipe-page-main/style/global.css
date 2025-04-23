@@ -28,6 +28,9 @@
   --fw-base: 400;
   --fw-md: 600;
   --fw-bold: 700;
+
+  /* padding no eixo X */
+  --px-lg: 1.625rem; /* 26px */
 }
 
 html {
@@ -36,4 +39,9 @@ html {
   font-size: var(--fs-base);
   line-height: 1.6;
   color: var(--stone-900);
+}
+
+img {
+  max-width: 100%;
+  display: inline-block;
 }

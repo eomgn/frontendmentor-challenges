@@ -1,0 +1,23 @@
+.container {
+  --max-width: 375px; /* variavel  para o valor maximo de tamanho - mobile first */
+  margin-inline: auto;
+
+  border: 1px solid;
+}
+
+.container-wrapper {
+  padding: 1.8rem;
+}
+
+@media (width >= 60em) {
+  .container {
+    --max-width: 900px; /* variavel  para o valor maximo de tamanho - desktop */
+    width: min(var(--max-width), 100% - var(--px-lg) * 2);
+
+    padding: 1.875rem;
+  }
+
+  div.container {
+    border-radius: 1rem;
+  }
+}

@@ -1,0 +1,48 @@
+h1 {
+  font-family: var(--ff-young-serif-sans);
+  font-weight: normal;
+  font-size: 2rem;
+  line-height: 100%;
+
+  color: var(--stone-900);
+}
+
+p {
+  color: var(--stone-600);
+  /* font-size: 1.2rem; */
+  padding-block: 1.75rem;
+}
+
+#preparation-time {
+  padding: 1rem;
+  background-color: var(--rose-50);
+  border-radius: 0.75rem;
+
+  & h3 {
+    color: var(--rose-800);
+    font-size: 1.2rem;
+  }
+
+  & ul {
+    margin: 1.5rem;
+    font-size: 1.15rem;
+
+    & li {
+      padding: 0.25rem;
+
+      &::marker {
+        color: var(--rose-800);
+      }
+    }
+
+    & strong {
+      color: var(--stone-900);
+    }
+  }
+}
+
+@media (width >= 60em) {
+  img {
+    border-radius: 1rem;
+  }
+}
