@@ -11,6 +11,10 @@ My app allows users to:
 
 ![Preview](./preview.jpg)
 
+## View
+
+Do you want to view the project? [Click heremgn](https://recipe-page-main-eta-one.vercel.app/) to be redirected
+
 ## Stack
 
 **Front-end:** HTML, CSS
