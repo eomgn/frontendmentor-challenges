@@ -20,9 +20,10 @@ p {
   background-color: var(--rose-50);
   border-radius: 0.75rem;
 
-  & h3 {
+  & span {
     color: var(--rose-800);
     font-size: 1.2rem;
+    font-weight: var(--fw-bold);
   }
 
   & ul {
