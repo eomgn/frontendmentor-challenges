@@ -7,22 +7,16 @@ My app allows users to:
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-## Screenshots
+## Preview
 
-<div style="display: flex; justify-content:center; gap: 5px; ">
-    <div>
-        <h2>Desktop</h2>
-        <img src="./design/desktop-design.jpg" />
-   </div>
-   <div>
-        <h2>Mobile</h2>
-        <img src="./design/mobile-design.jpg" />
-   </div>
-</div>
+![Preview](./preview.jpg)
 
 ## Stack
 
 **Front-end:** HTML, CSS
+<br>
+<br>
+**Style Guide:** [Link](./style-guide.md)
 
 ## Autor
 
