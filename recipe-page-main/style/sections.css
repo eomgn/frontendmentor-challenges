@@ -56,7 +56,7 @@ strong {
     & .item {
       display: flex;
 
-      padding-block: 0.55rem;
+      padding-block: 0.5rem;
       border-bottom: 1px solid #d1d0d0;
 
       & span {

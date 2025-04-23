@@ -45,3 +45,10 @@ img {
   max-width: 100%;
   display: inline-block;
 }
+
+@media (width >= 60em) {
+  body {
+    background-color: var(--stone-100);
+    padding-block: 4rem;
+  }
+}

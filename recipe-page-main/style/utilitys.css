@@ -2,7 +2,7 @@
   --max-width: 375px; /* variavel  para o valor maximo de tamanho - mobile first */
   margin-inline: auto;
 
-  border: 1px solid;
+  /* border: 1px solid; */
 }
 
 .container-wrapper {
@@ -15,6 +15,7 @@
     width: min(var(--max-width), 100% - var(--px-lg) * 2);
 
     padding: 1.875rem;
+    background-color: var(--white);
   }
 
   div.container {
