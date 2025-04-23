@@ -1,0 +1,78 @@
+section {
+  padding-bottom: 1.5rem;
+
+  & + section {
+    border-top: 1px solid #bdbdbd;
+  }
+}
+
+h2 {
+  font-family: var(--ff-young-serif-sans);
+  font-size: 1.75rem;
+  font-weight: normal;
+
+  color: var(--brown-800);
+
+  padding-block: 1.5rem;
+}
+
+strong {
+  color: var(--stone-600);
+}
+
+#ingredients {
+  & ul {
+    margin-inline: 1.5rem;
+
+    & li {
+      &::marker {
+        color: var(--brown-800);
+      }
+    }
+  }
+}
+
+#instructions {
+  & ol {
+    margin-inline: 1.5rem;
+
+    & li {
+      &::marker {
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+
+        color: var(--brown-800);
+      }
+    }
+  }
+}
+
+#nutrition {
+  & p {
+    padding: 0;
+  }
+
+  & #values-nutritions {
+    & .item {
+      display: flex;
+
+      padding-block: 0.55rem;
+      border-bottom: 1px solid #d1d0d0;
+
+      & span {
+        flex: 1;
+        padding-left: 2rem;
+        color: var(--stone-600);
+      }
+
+      & strong {
+        flex: 1;
+        color: var(--brown-800);
+      }
+
+      &:first-child {
+        padding-top: 0.75rem;
+      }
+    }
+  }
+}

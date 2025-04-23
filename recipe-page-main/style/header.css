@@ -5,6 +5,8 @@ h1 {
   line-height: 100%;
 
   color: var(--stone-900);
+
+  padding-top: 1.75rem;
 }
 
 p {
@@ -36,7 +38,7 @@ p {
     }
 
     & strong {
-      color: var(--stone-900);
+      color: var(--stone-600);
     }
   }
 }
