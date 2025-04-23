@@ -34,5 +34,5 @@ Do you want to view the project? [Click heremgn](https://recipe-page-main-eta-on
 
 ## Licença
 
-- Copyright © 2023 [@eomgn](https://github.com/eomgn)
+- Copyright © 2025 [@eomgn](https://github.com/eomgn)
 - [MIT](../LICENSE)
