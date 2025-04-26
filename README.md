@@ -8,10 +8,11 @@ Feel free to leave your feedback and suggestions. In the contact field you can f
 
 ## Challenges
 
-| Project           | Stack     | Link                                                                                                |
-| ----------------- | --------- | --------------------------------------------------------------------------------------------------- |
-| Recipe page       | HTML, CSS | [Link](https://github.com/eomgn/frontendmentor-challenges/tree/main/recipe-page-main)               |
-| Testimonials grid | HTML, CSS | [Link](https://github.com/eomgn/frontendmentor-challenges/tree/main/testimonials-grid-section-main) |
+| Project             | Stack     | Link                                                                                                |
+| ------------------- | --------- | --------------------------------------------------------------------------------------------------- |
+| Recipe page         | HTML, CSS | [Link](https://github.com/eomgn/frontendmentor-challenges/tree/main/recipe-page-main)               |
+| Testimonials grid   | HTML, CSS | [Link](https://github.com/eomgn/frontendmentor-challenges/tree/main/testimonials-grid-section-main) |
+| Social link profile | HTML, CSS | [Link](https://github.com/eomgn/frontendmentor-challenges/tree/main/social-links-profile-main)      |
 
 ## Autor
 
