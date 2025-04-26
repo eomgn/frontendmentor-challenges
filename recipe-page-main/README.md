@@ -13,7 +13,7 @@ My app allows users to:
 
 ## View
 
-Do you want to view the project? [Click heremgn](https://recipe-page-main-eta-one.vercel.app/) to be redirected
+Do you want to view the project? [Click here](https://recipe-page-main-eta-one.vercel.app/) to be redirected
 
 ## Stack
 
