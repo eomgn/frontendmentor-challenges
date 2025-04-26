@@ -1,0 +1,23 @@
+/* container principal ocupando no mínimo 100% da altura da viewport e  centralizando verticalmente o conteúdo 
+*/
+
+.container {
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  padding: var(--px-lg);
+}
+
+/* conteúdo centralizado com largura máxima definida e padding interno
+*/
+.content {
+  --max-width: 375px;
+  width: min(var(--max-width), 100% - var(--px-lg) * 2);
+  margin-inline: auto;
+
+  padding: 2rem;
+
+  background-color: var(--grey-800);
+
+  border-radius: 0.75rem;
+}

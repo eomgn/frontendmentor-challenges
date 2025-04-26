@@ -1,0 +1,14 @@
+@import url(global.css);
+@import url(utilitys.css);
+@import url(content__header.css);
+@import url(content__links.css);
+
+@font-face {
+  font-family: "Inter";
+  src: url("../assets/fonts/Inter-VariableFont.ttf") format("truetype");
+  /* 
+    @font-face é uma abordagem que permite:
+    - Autonomia: Você não depende de serviços externos como Google Fonts, o que significa mais controle e disponibilidade mesmo offline.
+    - Performance: Evita chamadas HTTP externas, o que pode melhorar o tempo de carregamento se as fontes forem otimizadas e bem armazenadas
+    */
+}

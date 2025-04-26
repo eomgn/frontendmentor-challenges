@@ -1,0 +1,26 @@
+.content__header {
+  display: grid;
+  justify-items: center;
+
+  & img {
+    border-radius: 100%;
+    width: 5rem;
+  }
+
+  & h1 {
+    font-size: 1.5rem;
+    padding-top: 1.5rem;
+  }
+
+  & span {
+    font-weight: var(--fw-sm);
+    font-size: var(--fs-sm);
+    color: var(--green);
+
+    padding-block: 0.15rem 1rem;
+  }
+
+  & p {
+    font-size: var(--fs-sm);
+  }
+}
